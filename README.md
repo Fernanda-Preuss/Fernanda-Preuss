@@ -8,5 +8,5 @@ Estudante do curso tecnico de informatica no IFPR atualmente no curso tecnoco de
 - Fluencia em ingles
 - Sempre aprendendo mais tecnicas e habilidades
 ## 🛠 Habilidades
-- **Designe**: figma, canvas e ferramentas de edição de imagem
+- **Design**: figma, canvas e ferramentas de edição de imagem
 - **Programação**: HTML, CSS, JavaSript e Java (iniciante)
