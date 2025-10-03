@@ -1,12 +1,12 @@
 # Fernanda Preuss Montagnole
 
-Estudante do curso tecnico de informatica no IFPR atualmente no curso tecnoco de informatica integrado ao ensino medio, focada principalmente em design grafico principalmente na area da criatividade e estética digital
+Estudante do curso tecnico de informatica no IFPR atualmente no curso tecnico de informatica integrado ao ensino medio, focada principalmente em design grafico principalmente na area da criatividade e estética digital
 ## 🎨 Sobre mim
 
 - Atualmente estudando desenvolvimento e sistemas e fundamentos de design
-- Experiencia de design e desenvolvimento de sistemas
-- Fluencia em ingles
-- Sempre aprendendo mais tecnicas e habilidades
+- Experiencia em design e desenvolvimento de sistemas
+- Fluente em ingles
+- Sempre aprendendo mais tecnicas e habilidades da area
 ## 🛠 Habilidades
 - **Design**: Figma, Canvas e Ferramentas de edição de imagem
 - **Programação**: HTML, CSS, JavaSript e Java (iniciante)
